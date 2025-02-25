@@ -3,6 +3,8 @@
 }
 
 body {
+  background-image: url(../public/back.jpg);
+  background-size: cover;
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
